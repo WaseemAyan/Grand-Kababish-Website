@@ -41,6 +41,6 @@
         
         // Carousel settings
         const carousel = new bootstrap.Carousel(document.getElementById('heroCarousel'), {
-            interval: 5000,
+            interval: 1500,
             pause: false
         });
